@@ -1,0 +1,90 @@
+cve,vendor,product,category,type,action,date_added,ransomware,advisory
+CVE-2026-67279,MikroTik,RouterOS,router-or-wifi,other,update,2026-09-25,False,https://mikrotik.com/supportsec/september-2026-vulnerability
+CVE-2026-86060,MikroTik,RouterOS,router-or-wifi,command-injection,update,2026-09-10,False,https://mikrotik.com/supportsec/september-2026-vulnerability
+CVE-2026-67277,MikroTik,RouterOS,router-or-wifi,login-bypass,update,2026-09-10,False,https://mikrotik.com/supportsec/september-2026-vulnerability/
+CVE-2026-34910,Ubiquiti,UniFi OS,router-or-wifi,input-handling,update,2026-06-23,False,https://community.ui.com/releases/Security-Advisory-Bulletin-064-064/84811c09-4cf4-42ab-bd61-cc994445963b
+CVE-2026-34909,Ubiquiti,UniFi OS,router-or-wifi,file-access,update,2026-06-23,False,https://community.ui.com/releases/Security-Advisory-Bulletin-064-064/84811c09-4cf4-42ab-bd61-cc994445963b
+CVE-2026-34908,Ubiquiti,UniFi OS,router-or-wifi,access-control,update,2026-06-23,False,https://community.ui.com/releases/Security-Advisory-Bulletin-064-064/84811c09-4cf4-42ab-bd61-cc994445963b
+CVE-2025-29635,D-Link,DIR-823X,router-or-wifi,command-injection,update,2026-04-24,False,https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10469
+CVE-2017-7921,Hikvision,Multiple Products,camera-or-recorder,login-bypass,update,2026-03-05,False,https://www.hikvision.com/us-en/support/document-center/special-notices/privilege-escalating-vulnerability-in-certain-hikvision-ip-cameras/
+CVE-2022-37055,D-Link,Routers,router-or-wifi,memory-bug,update,2025-12-08,False,https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10308
+CVE-2025-9377,TP-Link,Multiple Routers,router-or-wifi,command-injection,update,2025-09-03,False,https://www.tp-link.com/us/support/faq/4308/
+CVE-2023-50224,TP-Link,TL-WR841N,router-or-wifi,login-bypass,update,2025-09-03,False,https://www.tp-link.com/us/support/faq/4308/
+CVE-2020-24363,TP-Link,TL-WA855RE,router-or-wifi,login-bypass,update,2025-09-02,False,https://www.tp-link.com/us/home-networking/range-extender/tl-wa855re/#overview
+CVE-2022-40799,D-Link,DNR-322L,camera-or-recorder,unverified-update,update,2025-08-05,False,https://www.dlink.com/uk/en/products/dnr-322l-cloud-network-video-recorder
+CVE-2020-25079,D-Link,DCS-2530L and DCS-2670L Devices,camera-or-recorder,command-injection,update,2025-08-05,False,https://support.dlink.com/productinfo.aspx?m=DCS-2530L
+CVE-2020-25078,D-Link,DCS-2530L and DCS-2670L Devices,camera-or-recorder,not-stated,update,2025-08-05,False,https://support.dlink.com/productinfo.aspx?m=DCS-2530L
+CVE-2024-0769,D-Link,DIR-859 Router,router-or-wifi,file-access,update,2025-06-25,False,https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10371
+CVE-2023-33538,TP-Link,Multiple Routers,router-or-wifi,command-injection,update,2025-06-16,False,https://www.tp-link.com/nordic/support/faq/3562/
+CVE-2023-39780,ASUS,RT-AX55 Routers,router-or-wifi,command-injection,update,2025-06-02,False,https://www.asus.com/networking-iot-servers/wifi-6/all-series/rt-ax55/helpdesk_bios/?model2Name=RT-AX55
+CVE-2021-32030,ASUS,Routers,router-or-wifi,login-bypass,update,2025-06-02,False,https://www.asus.com/us/supportonly/lyra%20mini/helpdesk_bios/
+CVE-2024-12987,DrayTek,Vigor Routers,router-or-wifi,command-injection,update,2025-05-15,False,https://fw.draytek.com.tw/Vigor2960/Firmware/v1.5.1.5/DrayTek_Vigor2960_V1.5.1.5_01release-note.pdf
+CVE-2025-1316,Edimax,IC-7100 IP Camera,camera-or-recorder,command-injection,update,2025-03-19,False,https://www.edimax.com/edimax/post/post/data/edimax/global/press_releases/4801/
+CVE-2024-40891,Zyxel,DSL CPE Devices,router-or-wifi,command-injection,check-if-supported,2025-02-11,False,https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-command-injection-and-insecure-default-credentials-vulnerabilities-in-certain-legacy-dsl-cpe-02-04-2025
+CVE-2024-40890,Zyxel,DSL CPE Devices,router-or-wifi,command-injection,check-if-supported,2025-02-11,False,https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-command-injection-and-insecure-default-credentials-vulnerabilities-in-certain-legacy-dsl-cpe-02-04-2025
+CVE-2021-40407,Reolink,RLC-410W IP Camera,camera-or-recorder,command-injection,check-if-supported,2024-12-18,False,https://reolink.com/product-eol/
+CVE-2019-11001,Reolink,Multiple IP Cameras,camera-or-recorder,command-injection,check-if-supported,2024-12-18,False,https://reolink.com/product-eol/
+CVE-2023-25280,D-Link,DIR-820 Router,router-or-wifi,command-injection,replace,2024-09-30,False,https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10358
+CVE-2020-15415,DrayTek,Multiple Vigor Routers,router-or-wifi,command-injection,update,2024-09-30,False,https://www.draytek.com/about/security-advisory/vigor3900-/-vigor2960-/-vigor300b-remote-code-injection/execution-vulnerability-(cve-2020-14472)
+CVE-2021-33045,Dahua,IP Camera Firmware,camera-or-recorder,login-bypass,update,2024-08-21,False,https://www.dahuasecurity.com/aboutUs/trustedCenter/details/582
+CVE-2021-33044,Dahua,IP Camera Firmware,camera-or-recorder,login-bypass,update,2024-08-21,False,https://www.dahuasecurity.com/aboutUs/trustedCenter/details/582
+CVE-2021-40655,D-Link,DIR-605 Router,router-or-wifi,information-leak,replace,2024-05-16,False,https://legacy.us.dlink.com/pages/product.aspx?id=2b09e95d90ff4cb38830ecc04c89cee5
+CVE-2014-100005,D-Link,DIR-600 Router,router-or-wifi,web-attack,replace,2024-05-16,False,https://legacy.us.dlink.com/pages/product.aspx?id=4587b63118524aec911191cc81605283
+CVE-2024-3273,D-Link,Multiple NAS Devices,network-storage,command-injection,replace,2024-04-11,False,https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10383
+CVE-2024-3272,D-Link,Multiple NAS Devices,network-storage,built-in-password,replace,2024-04-11,False,https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10383
+CVE-2016-20017,D-Link,DSL-2750B Devices,router-or-wifi,command-injection,update,2024-01-08,False,https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10088
+CVE-2023-47565,QNAP,VioStor NVR,camera-or-recorder,command-injection,update,2023-12-21,False,https://www.qnap.com/en/security-advisory/qsa-23-48
+CVE-2017-6884,Zyxel,EMG2926 Routers,router-or-wifi,command-injection,update,2023-09-18,True,"https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-command-injection-vulnerability-in-emg2926-q10a-ethernet-cpe, https://www.zyxelguard.com/Zyxel-EOL.asp"
+CVE-2014-8361,Realtek,SDK,router-or-wifi,input-handling,update,2023-09-18,False,
+CVE-2017-18368,Zyxel,P660HN-T1A Routers,router-or-wifi,command-injection,update,2023-08-07,False,https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-a-new-variant-of-gafgyt-malware
+CVE-2019-20500,D-Link,DWL-2600AP Access Point,router-or-wifi,command-injection,update,2023-06-29,False,https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10113
+CVE-2019-17621,D-Link,DIR-859 Router,router-or-wifi,command-injection,update,2023-06-29,False,https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10147
+CVE-2023-27992,Zyxel,Multiple Network-Attached Storage (NAS) Devices,network-storage,command-injection,update,2023-06-23,False,https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-pre-authentication-command-injection-vulnerability-in-nas-products
+CVE-2023-1389,TP-Link,Archer AX21,router-or-wifi,command-injection,update,2023-05-01,False,https://www.tp-link.com/us/support/download/archer-ax21/v3/#Firmware
+CVE-2022-27593,QNAP,Photo Station,network-storage,other,update,2022-09-08,True,https://www.qnap.com/en/security-advisory/qsa-22-24
+CVE-2022-26258,D-Link,DIR-820L,router-or-wifi,remote-code-execution,replace,2022-09-08,False,https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10295
+CVE-2018-7445,MikroTik,RouterOS,router-or-wifi,memory-bug,update,2022-09-08,False,"https://www.coresecurity.com/core-labs/advisories/mikrotik-routeros-smb-buffer-overflow#vendor_update, https://mikrotik.com/download"
+CVE-2018-6530,D-Link,Multiple Routers,router-or-wifi,command-injection,update,2022-09-08,True,https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10105
+CVE-2017-5521,NETGEAR,Multiple Devices,router-or-wifi,information-leak,update,2022-09-08,False,https://kb.netgear.com/30632/Web-GUI-Password-Recovery-and-Exposure-Security-Vulnerability
+CVE-2011-4723,D-Link,DIR-300 Router,router-or-wifi,password-exposure,replace,2022-09-08,False,https://www.dlink.com/uk/en/support/product/dir-300-wireless-g-router
+CVE-2019-7195,QNAP,Photo Station,network-storage,file-access,update,2022-06-08,True,
+CVE-2019-7194,QNAP,Photo Station,network-storage,file-access,update,2022-06-08,True,
+CVE-2019-7193,QNAP,QTS,network-storage,input-handling,update,2022-06-08,True,
+CVE-2019-7192,QNAP,Photo Station,network-storage,access-control,update,2022-06-08,True,
+CVE-2017-6862,NETGEAR,Multiple Devices,router-or-wifi,memory-bug,update,2022-06-08,False,
+CVE-2018-19953,QNAP,Network Attached Storage (NAS),network-storage,web-attack,update,2022-05-24,True,
+CVE-2018-19949,QNAP,Network Attached Storage (NAS),network-storage,command-injection,update,2022-05-24,True,
+CVE-2018-19943,QNAP,Network Attached Storage (NAS),network-storage,web-attack,update,2022-05-24,True,
+CVE-2019-16057,D-Link,DNS-320 Storage Device,network-storage,remote-code-execution,replace,2022-04-15,True,
+CVE-2010-5330,Ubiquiti,AirOS,router-or-wifi,command-injection,update,2022-04-15,False,
+CVE-2020-2509,QNAP,QNAP Network-Attached Storage (NAS),network-storage,command-injection,update,2022-04-11,False,
+CVE-2021-45382,D-Link,Multiple Routers,router-or-wifi,remote-code-execution,replace,2022-04-04,False,
+CVE-2021-28799,QNAP,Network Attached Storage (NAS),network-storage,other,update,2022-03-31,True,
+CVE-2018-10562,Dasan,Gigabit Passive Optical Network (GPON) Routers,router-or-wifi,command-injection,replace,2022-03-31,True,
+CVE-2018-10561,Dasan,Gigabit Passive Optical Network (GPON) Routers,router-or-wifi,login-bypass,replace,2022-03-31,False,
+CVE-2020-9377,D-Link,DIR-610 Devices,router-or-wifi,command-injection,replace,2022-03-25,False,
+CVE-2020-9054,Zyxel,Multiple Network-Attached Storage (NAS) Devices,network-storage,command-injection,update,2022-03-25,False,
+CVE-2019-16920,D-Link,Multiple Routers,router-or-wifi,command-injection,replace,2022-03-25,False,
+CVE-2018-14839,LG,N1A1 NAS,network-storage,command-injection,update,2022-03-25,False,
+CVE-2017-6334,NETGEAR,DGN2200 Devices,router-or-wifi,command-injection,replace,2022-03-25,False,
+CVE-2016-1555,NETGEAR,Wireless Access Point (WAP) Devices,router-or-wifi,command-injection,update,2022-03-25,False,
+CVE-2016-11021,D-Link,DCS-930L Devices,camera-or-recorder,command-injection,replace,2022-03-25,False,
+CVE-2016-10174,NETGEAR,WNR2000v5 Router,router-or-wifi,memory-bug,update,2022-03-25,False,
+CVE-2015-3035,TP-Link,Multiple Archer Devices,router-or-wifi,file-access,update,2022-03-25,False,
+CVE-2015-1187,D-Link and TRENDnet,Multiple Devices,router-or-wifi,remote-code-execution,replace,2022-03-25,False,
+CVE-2013-5223,D-Link,DSL-2760U,router-or-wifi,web-attack,update,2022-03-25,False,
+CVE-2017-6077,NETGEAR,Wireless Router DGN2200,router-or-wifi,remote-code-execution,update,2022-03-07,False,
+CVE-2016-6277,NETGEAR,Multiple Routers,router-or-wifi,remote-code-execution,update,2022-03-07,False,
+CVE-2015-2051,D-Link,DIR-645 Router,router-or-wifi,remote-code-execution,replace,2022-02-10,False,
+CVE-2021-36260,Hikvision,Security cameras web server,camera-or-recorder,input-handling,update,2022-01-10,False,
+CVE-2021-35394,Realtek,Jungle Software Development Kit (SDK),router-or-wifi,remote-code-execution,update,2021-12-10,False,
+CVE-2018-14847,MikroTik,RouterOS,router-or-wifi,file-access,update,2021-12-01,False,
+CVE-2021-35395,Realtek,AP-Router SDK,router-or-wifi,memory-bug,update,2021-11-03,False,
+CVE-2021-31755,Tenda,AC11 Router,router-or-wifi,memory-bug,update,2021-11-03,False,
+CVE-2020-8515,DrayTek,Multiple Vigor Routers,router-or-wifi,other,update,2021-11-03,False,
+CVE-2020-5735,Amcrest,Cameras and Network Video Recorder (NVR),camera-or-recorder,memory-bug,update,2021-11-03,False,
+CVE-2020-29557,D-Link,DIR-825 R1 Devices,router-or-wifi,memory-bug,update,2021-11-03,False,
+CVE-2020-25506,D-Link,DNS-320 Device,network-storage,command-injection,update,2021-11-03,False,
+CVE-2020-10987,Tenda,AC1900 Router AC15 Model,router-or-wifi,remote-code-execution,update,2021-11-03,False,
+CVE-2019-19356,Netis,WF2419 Devices,router-or-wifi,remote-code-execution,update,2021-11-03,False,
+CVE-2018-14558,Tenda,"AC7, AC9, and AC10 Routers",router-or-wifi,command-injection,update,2021-11-03,False,
